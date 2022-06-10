@@ -1,0 +1,41 @@
+SED - text stream editor. Can do insertion, deletion, search and replace. 
+
+Standard syntax - 
+
+  sed 's/example/example1/' file.txt (changes the first occurrence of the letter/word in selected file) 
+  sed 
+  sed 's/example/example1/g’ file.txt
+
+Line deletion - sed '5d' filename.txt
+
+AWK - Scans a file line by line, Splits each input line into fields, Compares input line/fields to pattern, Performs action(s) on matched lines, Transform data files, provide  formatted reports and field separation using entire lines of data 
+
+TR - translating or deleting characters. It supports a range of transformations including uppercase to lowercase, squeezing repeating characters, deleting specific characters and basic find and replace
+
+Zennity - Linux GUI 
+
+GREP - grep is a command-line utility for searching plain-text data sets for lines that match a regular expression. Its name
+
+TEE - Performs multiple functions in one line
+
+SLEEP - Sleep command is used to delay for a fixed amount of time during the execution of any script.
+
+FIND - find is a command-line utility that locates files based on some user-specified criteria and either prints the pathname of each matched object or, if another action is requested, performs that action on each matched object
+
+tree -a ~FILE~
+
+HEAD - 
+
+TAIL - 
+
+DIFF -
+
+TAR/GZIP - a common Linux file format that is similar to zip format, with compression being optional.
+
+https://www.linuxtechi.com/17-tar-command-examples-in-linux/
+
+SHRED - This command overrides the contents of a file repeatedly, and as a result, the given file becomes extremely difficult to recover.
+
+MORE/LESS - more reads files like CAT from from to end and LESS reads backwards. Could be used as a double search function to find information twice as fast. 
+
+WqGET - https://youtu.be/Oe40pxcjPpM 
